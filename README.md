@@ -36,7 +36,7 @@ Inquiries About Python - Chatbot Responses:  <br/>
 <img src="https://github.com/Amsmoox/ChatBotNLP/assets/82274806/81979672-ecac-4cc8-bf0e-b5d2859f7786" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
 Exploring KHPI - Chatbot Insights: <br/>
 <img src="https://github.com/Amsmoox/ChatBotNLP/assets/82274806/d62e89c1-8d0a-47d0-b0d8-397d151cf2af" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
+</p>
+The demonstrations presented here underscore the effectiveness of the intelligent chatbot developed using NLP software components. Tkinter's integration has facilitated a user-friendly interface, while NLP, NLTK, and tokenization have empowered the chatbot with advanced language processing capabilities. These demonstrations signify the chatbot's potential to engage users in meaningful and informative conversations, marking a significant advancement in the realm of intelligent conversational agents.

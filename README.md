@@ -1,4 +1,4 @@
-<h1>ChatBotNLP</h1>
+<h1>ChatBotNLP (Demo Algorithm)</h1>
 
 <h2>Description</h2>
 Development and Research of Software Components of Natural Language Processing for building an Intelligent Chatbot.<br>
